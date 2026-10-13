@@ -1,0 +1,5 @@
+[deps]
+ADTypes = "47edcb42-4c32-4615-8424-f2b9edc5f35b"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+OrdinaryDiffEq = "1dea7af3-3e70-54e6-95c3-0bf5283fa5ed"
+Symbolics = "0c5d862f-8b57-4792-8d23-62f2024744c7"
